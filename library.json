@@ -1,0 +1,15 @@
+{
+    "name": "Menu",
+    "version": "0.1.0",
+    "keywords": "menu, folder",
+    "description": "Relational menu system with parent/child pointer structures",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/samspencer5991/menu.git"
+    },
+    "frameworks": "arduino, stm32cube",
+    "platforms": "ststm32, raspberrypi",
+    "build": {
+        "libArchive": false
+    }
+}
